@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Chen;Wallece;;;
+FN: Wallece  Chen 
+ORG:龍好禮精品行;
+TITLE:專營紙製龍船精品
+EMAIL;type=INTERNET;type=WORK;type=pref:wallecechen@yahoo.com.tw
+TEL;type=WORK;type=VOICE:+886 918203476
+item1.ADR;type=WORK;type=pref:;;新北市中和區興路一段56巷28號4樓
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://shopee.tw/wallecechen
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
